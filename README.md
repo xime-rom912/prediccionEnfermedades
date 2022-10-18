@@ -1,1 +1,1 @@
-# prediccionEnfermedades
+# Prediccion de Enfermedades

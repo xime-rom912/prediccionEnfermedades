@@ -4,7 +4,7 @@
     $ gcloud app deploy app.yaml --project "Nombre del proyecto"
     
     
-  ![Screenshot](https://github.com/DavidReveloLuna/API_Gcloud_Streamlit/blob/master/assets/Screenshot.png)
+  ![Screenshot](https://https://github.com/xime-rom912/prediccionEnfermedades/blob/main/assets/Screenshot.png)
 
 ## Agradecimientos
 

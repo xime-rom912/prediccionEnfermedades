@@ -4,7 +4,7 @@
     $ gcloud app deploy app.yaml --project "Nombre del proyecto"
     
     
-  ![Screenshot](https://https://github.com/xime-rom912/prediccionEnfermedades/blob/main/assets/Screenshot.png)
+  ![Screenshot](https://github.com/xime-rom912/prediccionEnfermedades/blob/main/assets/Screenshot.png)
 
 ## Agradecimientos
 
